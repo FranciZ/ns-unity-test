@@ -1,0 +1,6 @@
+framework module NSUnity {
+  umbrella header "NSUnity.h"
+
+  export *
+  module * { export * }
+}
